@@ -1,2 +1,2 @@
-# Email-Spam_classifier
+# Email-Spam-Classifier
 email spam classifier using svm
